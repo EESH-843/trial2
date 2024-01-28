@@ -6,6 +6,5 @@ nest_asyncio
 pandas
 scipy
 openai
-PortAudio
 sounddevice
 
