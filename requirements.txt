@@ -7,4 +7,5 @@ pandas
 scipy
 openai
 PortAudio
-sounddevice
+sounddevice 0.4.6
+
